@@ -55,13 +55,11 @@ From unique array traversal, an algorithm was realized to find class names only 
   
 </td>
 <td>
-
-```py
-  test
-
-```
-
+<img src="img/json-structure.png" alt="json-structure" style=" height: 250px ; width: 250px; "/>
 </td>
 </tr>
 </table>
 
+## Execution algorithm
+
+The algorithm opens a JSON file, loops through all the elements in an array containing labels with undefined class numbers. The algorithm adds the class name to the array if this class does not appear. From this array, the algorithm generates a text file.
