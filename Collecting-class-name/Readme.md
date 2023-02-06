@@ -7,7 +7,7 @@ This code was written to collect all possible categories that are used in the da
 </div> <br>
 
 ## Introduction
-Sometimes developers do not indicate the exact names of categories in the documentation, for example, in the official BDD100K documentation, classes such as ```pedestrian``` and ```bicycle``` are indicated, however, to define these objects, the names ```person``` and ```bicycle``` are used, respectively.
+Sometimes developers do not indicate the exact names of categories in the documentation, for example, in the official BDD100K documentation, classes such as ```pedestrian``` and ```bicycle``` are indicated, however, to define these objects, the names ```person``` and ```bike``` are used, respectively.
 
 ## Output
 The algorithm creates a txt file containing all the classes that are used in the dataset. For example, the classes below were collected from BDD100K database.
