@@ -41,3 +41,6 @@ As an output data algorithm returns two ```png``` files with two variants of dis
 
 </tr>
 </table>
+
+
+## Execution algorithm
