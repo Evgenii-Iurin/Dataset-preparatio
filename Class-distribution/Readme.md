@@ -44,3 +44,9 @@ As an output data algorithm returns two ```png``` files with two variants of dis
 
 
 ## Execution algorithm
+1. Gets a folder with prepared files (.txt and .jpg) in YOLO format at the given folder path.
+2. Opens each .txt file
+3. In YOLO format each first humber on each line represents a class, which we gave earlier.
+4. There can be several classes on one image . In order to keep the correct statistics we must calculate non-repeating classes. A sort function was written for this.
+5. At the next stage, the sorted array goes to the function that calculates the number of images for each class.
+6. The cycle repeats.
