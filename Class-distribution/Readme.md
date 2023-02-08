@@ -1,3 +1,6 @@
+<img src="img/distribution_YOLO.jpg" alt="Banner"/>
+
+
 <div align="center">
 <h1>Dataset class distribution</h1>
 Evgenii Iurin
