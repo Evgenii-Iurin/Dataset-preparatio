@@ -1,6 +1,3 @@
-<img src="img/banner_distribution_YOLO.jpg" alt="Banner"/>
-
-
 <div align="center">
 <h1>Dataset class distribution</h1>
 Evgenii Iurin
@@ -11,6 +8,8 @@ Evgenii Iurin
 This code was created to represent class distribution only for YOLO text format, namely how many images are used by each class.
 </div>
 <br>
+<img src="img/banner_distribution_YOLO.jpg" alt="Banner"/>
+
 
 ## Introduction
 Data analytics - is a powerful tool that helps to evaluate datasets and adjust the direction of your application. The distribution shows in a clear way how many images are used by each class. That serves as quick dataset evaluation. There is a code description and two plots for representation.
