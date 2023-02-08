@@ -1,5 +1,3 @@
-<img src="img/class_collecting.jpg" alt="Banner" style=" height: 250px ; width: 250px; "/>
-
 <div align="center">
 <h1>Collecting class name</h1>
 Evgenii Iurin
@@ -7,6 +5,8 @@ Evgenii Iurin
 <div>
 This code was written to collect all possible categories that are used in the dataset.
 </div> <br>
+
+<img src="img/class_collecting.jpg" alt="Banner"/>
 
 ## Introduction
 Sometimes developers do not indicate the exact names of categories in the documentation, for example, in the official BDD100K documentation, classes such as ```pedestrian``` and ```bicycle``` are indicated, however, to define these objects, the names ```person``` and ```bike``` are used, respectively.
