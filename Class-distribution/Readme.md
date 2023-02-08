@@ -1,4 +1,4 @@
-<img src="img/distribution_YOLO.jpg" alt="Banner"/>
+<img src="img/banner_distribution_YOLO.jpg" alt="Banner"/>
 
 
 <div align="center">
