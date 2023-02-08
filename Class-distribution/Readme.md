@@ -5,7 +5,7 @@ Evgenii Iurin
 
 <br>
 <div align="center">
-This code was created to represent class distribution, namely how many images are used by each class.
+This code was created to represent class distribution only for YOLO text format, namely how many images are used by each class.
 </div>
 <br>
 
@@ -14,6 +14,12 @@ Data analytics - is a powerful tool that helps to evaluate datasets and adjust t
 
 As a baseline, I take the Dataset BDD100K. 
 <br/><br/>
+
+## Implementation
+- Only **YOLO** text format.
+
+<br/>
+
 ## Output
 As an output data algorithm returns two ```png``` files with two variants of distribution graphs. For example, there are two plots for training and validation data.
 
