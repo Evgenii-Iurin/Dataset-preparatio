@@ -117,3 +117,5 @@ distr_image = {'person': 0,
 <br/><br/>
 
 
+## Code
+💡 You can find the code in the ```code``` folder in this repository.
