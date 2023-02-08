@@ -13,6 +13,7 @@ This code was created to represent class distribution, namely how many images ar
 Data analytics - is a powerful tool that helps to evaluate datasets and adjust the direction of your application. The distribution shows in a clear way how many images are used by each class. That serves as quick dataset evaluation. There is a code description and two plots for representation.
 
 As a baseline, I take the Dataset BDD100K. 
+<br/><br/>
 ## Output
 As an output data algorithm returns two ```png``` files with two variants of distribution graphs. For example, there are two plots for training and validation data.
 
@@ -42,6 +43,7 @@ As an output data algorithm returns two ```png``` files with two variants of dis
 </tr>
 </table>
 
+<br/><br/>
 
 ## Execution algorithm
 
