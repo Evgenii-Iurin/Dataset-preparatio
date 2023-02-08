@@ -1,3 +1,5 @@
+<img src="img/class_collecting.jpg" alt="Banner" style=" height: 250px ; width: 250px; "/>
+
 <div align="center">
 <h1>Collecting class name</h1>
 Evgenii Iurin
