@@ -8,7 +8,7 @@ Evgenii Iurin
 Small talk abot what does code do... 
 </div>
 <br>
-<img src="img/waymo_preparation_to_YOLO.jpg" alt="Banner"/>
+<img src="img/waymo-preparation_to_YOLO.jpg" alt="Banner"/>
 
 
 ## Introduction
