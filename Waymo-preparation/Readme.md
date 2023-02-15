@@ -12,4 +12,4 @@ Small talk abot what does code do...
 
 
 ## Introduction
-Data analytics - is a powerful tool that helps to evaluate datasets and adjust the direction of your application. The distribution shows in a clear way how many images are used by each class. That serves as quick dataset evaluation. There is a code description and two plots for representation.
+Intro.. coming soon..
