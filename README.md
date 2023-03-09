@@ -25,3 +25,6 @@ Data analytics - is a powerful tool that helps to evaluate datasets and adjust t
 ## Collecting class name
 Sometimes developers do not indicate the exact names of categories in the documentation, for example, in the official BDD100K documentation, classes such as ```pedestrian``` and ```bicycle``` are indicated, however, to define these objects, the names ```person``` and ```bike``` are used, respectively.
 <img src="Collecting-class-name/img/class_collecting.jpg" alt="Banner"/>
+
+## Waymo Dataset preparation
+<img src="Waymo-preparation/img/waymo-preparation_to_YOLO.jpg" alt="Banner"/>
